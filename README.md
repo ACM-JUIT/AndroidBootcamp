@@ -1,5 +1,10 @@
 # AndroidBootcamp
-This repo contains the source code for the apps built during the ACM Android Development Bootcamp.
+This repo contains the source code for the apps built during the ACM Android Development Bootcamp.    
+
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
+<img src="acmAndroidBootcamp.png" width="650" height="350">
 
 ## Day 1    
 
