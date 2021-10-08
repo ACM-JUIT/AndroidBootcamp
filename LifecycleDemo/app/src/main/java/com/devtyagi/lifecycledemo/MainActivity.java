@@ -11,7 +11,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    String TAG = "MainActivity";
+    final String TAG = "MainActivity";
     EditText et;
 
     Button btnSwitch;
